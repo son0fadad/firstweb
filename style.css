@@ -1,0 +1,10 @@
+h1, h2 {
+    color: rgb(2, 9, 4);
+    background-color: rgba(200, 234, 212, 0.337);
+}
+h1{
+    color: rgba(9, 5, 3, 0.911)
+}
+p {
+  color: rgb(40, 119, 99);
+}
